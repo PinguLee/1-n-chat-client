@@ -1,5 +1,5 @@
-# 1:N Chat Server
-- 여러명의 클라인트끼리 채팅을 할 수 있는 프로그램 서버
+# 1:N Chat Client
+- 여러명의 클라인트끼리 채팅을 할 수 있는 프로그램 클라이언트
 - TCP/IP Socket Practice
 
 ## 참고
